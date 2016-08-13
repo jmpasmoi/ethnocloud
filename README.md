@@ -4,7 +4,7 @@ Focusing on providing high quality music streaming content
 
 ## Installation
 
-You can install forcats from github with:
+You can install ethnocloud from github with:
 
 ```R
 # install.packages("devtools")
