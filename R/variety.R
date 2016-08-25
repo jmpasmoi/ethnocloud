@@ -13,6 +13,6 @@ variety <- c( "African", "Asian", "Australian", "Balkan", "Caribbean", "East%20E
               "Micronesian", "Middle%20Eastern", "New%20Guinean", "North%20African", "North%20American",
               "Polynesian", "Scandinavian", "West%20European"
 	        )
-return(variety)
+print(variety)
 }
 
