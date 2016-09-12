@@ -336,3 +336,6 @@ library(ethnocloud) # for functions
 
 Jean Marie Cimula
 
+### licence 
+
+GPL (>= 2)
