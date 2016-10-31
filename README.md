@@ -23,7 +23,7 @@ devtools::install_github("jmcimula/ethnocloud")
 library(ethnocloud) # for functions
 
 #> ethno_music_stat("African")
-                                                          artist likes                     country    type
+#                                                          artist likes                     country    type
 #1                                                    Habib Koité  5217                        Mali African
 #2                                                  Mzungu Kichaa  1363                    Tanzania African
 #3                                                    Baka Beyond  1066              United Kingdom African
